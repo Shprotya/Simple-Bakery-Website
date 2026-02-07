@@ -1,2 +1,19 @@
-# Simple-Bakery-Website
-A static website built with HTML and CSS as one of my early web development projects. The goal was to practice layout structure, custom fonts, background images, basic navigation, and embedding external content such as Google Maps. This project helped me understand how real websites are structured and styled from scratch.
+🍞 Bakery Landing Page
+
+This project is a static bakery website built using HTML and CSS. It was created as one of my early web development projects while learning the fundamentals of front-end development.
+The main goal of this project was to practice building a full page layout from scratch, working with typography, images, sections, and basic user interaction such as navigation and embedded maps.
+
+🚀 Features
+- Clean landing page layout
+- Navigation menu (header & footer)
+- Hero section with background image and text overlay
+- Image-based content sections
+- Embedded Google Maps iframe
+- Custom fonts (Google Fonts)
+- Hover effects on navigation links
+
+🛠 Technologies Used
+- HTML5
+- CSS3
+- Google Fonts
+- Google Maps Embed
