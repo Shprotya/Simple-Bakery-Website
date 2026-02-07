@@ -1,0 +1,140 @@
+body{
+    background-color: #FFE2B0;
+    padding-bottom: 10px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.menu {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.menu a {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+    text-decoration: none;
+    margin-right: 100px;
+}
+
+.menu a:last-child {
+    margin: 0;
+}
+
+.menu a:hover {
+    color: #613D3F
+}
+
+.section-fontsimg {
+    height: 640px;
+    background-image: url(../img/01-imgfons.jpg);
+    background-size: cover;
+    background-position: center;
+    top: 0;
+    width: 1440px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.block-icon {
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.block-icon img {
+    height: 290px;
+    width: 290px;
+    margin-right: 76px;
+}
+
+.block-icon img:last-child {
+    margin: 0;
+}
+
+.map {
+    margin-bottom: 20px;
+}
+
+.map h3 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: "Philosopher";
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.map-iframe {
+    height: 400px;
+    width: 900px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+hr {
+    width: 1024px;
+    height: 1px;
+    color: #9999;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 96px;
+    font-family: "Philosopher", sans-serif;
+    margin-bottom: 20px;
+}
+
+.text-section span{
+    color: #F15B40;
+}
+
+.text-section p {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.section-fontsimg__block {
+    height: 190px;
+    width: 420px;
+    background: linear-gradient(180deg, rgba(244, 213, 178, 0.8)0%, rgba(234, 156, 65, 0.8)100%);
+    position: absolute;
+    box-sizing: border-box;
+    padding: 15px;
+    margin-left: 740px;
+    margin-top: 349px;
+}
+
+.section-fontsimg__block__border {
+    width: 390px;
+    height: 160px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.section-fontsimg__block__border h3 {
+    font-size: 36px;
+    font-weight: 400;
+    font-family: "Philosopher", sans-serif;
+    margin: 17px 0 9px 28px;
+}
+
+.section-fontsimg__block__border p {
+    font-size: 12px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    width: 334px;
+    margin-left: 28px;
+    text-align: left;
+    line-height: 1.2;
+}
